@@ -1,6 +1,6 @@
 # Awesome React
 
-<img src="https://raw.githubusercontent.com/acrool/awesome-react/main/og.webp" alt="Awesome React Logo"/>
+<img src="https://raw.githubusercontent.com/acrool/.github/main/og.webp" alt="Awesome React Logo"/>
 
 <p align="center">
     A collection of awesome things regarding the React ecosystem.
