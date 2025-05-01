@@ -48,6 +48,7 @@
 - [Acrool JS Logger](https://github.com/acrool/acrool-js-logger) - Color Console Log
 - [Acrool Window Launcher](https://github.com/acrool/acrool-window-launcher) - Promise Window Open
 - [Acrool Icon Symbols](https://github.com/acrool/acrool-icon-symbols) - SVG Compose to SVG Symbols
+- [Acrool Icon Symbols Cli](https://github.com/acrool/acrool-icon-symbols-cli) - Fast Pull Acrool Icon Symbols Cli
   
 ## Manage System
 
