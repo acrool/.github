@@ -29,7 +29,7 @@
 
 ## React component
 
-- [Bear React Carousel](https://github.com/imagine10255/bear-react-carousel) - Carousel
+- [Acrool React Carousel](https://github.com/acrool/acrool-react-carousel) - Carousel
 - [Acrool React Table](https://github.com/acrool/acrool-react-table) - Table
 - [Acrool React Dropdown](https://github.com/acrool/acrool-react-dropdown) - Dropdown
 - [Acrool React Datepicker](https://github.com/acrool/acrool-react-datepicker) - Datepicker
