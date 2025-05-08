@@ -30,12 +30,15 @@
 ## React component
 
 - [Acrool React Carousel](https://github.com/acrool/acrool-react-carousel) - Carousel
+- [Acrool React Vertical Marquee](https://github.com/acrool/acrool-react-vertical-marquee) - Vertical Marquee
 - [Acrool React Table](https://github.com/acrool/acrool-react-table) - Table
 - [Acrool React Dropdown](https://github.com/acrool/acrool-react-dropdown) - Dropdown
 - [Acrool React Datepicker](https://github.com/acrool/acrool-react-datepicker) - Datepicker
 - [Acrool React AutoHeight Textarea](https://github.com/acrool/acrool-react-auto-height-textarea) - Auto Height Textarea
 - [Acrool React Skeleton](https://github.com/acrool/acrool-react-skeleton) - Skeleton
 - [Acrool React Img](https://github.com/acrool/acrool-react-img) - Img (lazy)
+- [Acrool React Flip Countdown](https://github.com/acrool/acrool-react-flip-countdown) - Flip Countdown
+
 
 ## API Utils
 
