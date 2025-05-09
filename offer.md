@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>Frontend Tech Lead</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.8; margin: 2rem; background: #f9f9f9; color: #333; }
+    h1, h2, h3 { color: #2c3e50; }
+    h1 { font-size: 1.8rem; margin-bottom: 1rem; }
+    h2 { font-size: 1.5rem; margin-top: 2rem; }
+    h3 { font-size: 1.2rem; margin-top: 1.5rem; }
+    ul { margin: 0.5rem 0 1rem 1.5rem; }
+    li { margin-bottom: 0.5rem; }
+    .section { margin-bottom: 2rem; }
+  </style>
+</head>
+<body>
+  <h1>💼 Frontend Tech Lead</h1>
+
+  <div class="section">
+    <h2>🧾 工作內容</h2>
+    <ul>
+      <li>主導前端架構設計、技術選型與開發流程建立</li>
+      <li>指導與協助團隊成員完成產品功能開發，進行 Code Review、技術 mentoring</li>
+      <li>擬定並推動 API 規格與後端溝通流程，統整前後端介接標準</li>
+      <li>協作設計與後端團隊，確保產品品質、使用者體驗與技術可行性</li>
+      <li>規劃並執行前端部署流程（含 Docker/Linux 環境），確保穩定交付</li>
+      <li>評估並導入新技術，持續優化開發效率與產品效能</li>
+      <li>參與 UI/UX 設計溝通，優化產品介面互動體驗</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>✅ 必要條件（Required Skills）</h2>
+    <h3>🧠 技術能力</h3>
+    <ul>
+      <li>精通 React.js、TypeScript、ES6+</li>
+      <li>熟悉 React Query、Redux（Thunk / Saga）</li>
+      <li>熟悉 Next.js（SSR / SSG 架構）</li>
+      <li>具備 React Native 或 Flutter 實務經驗</li>
+      <li>熟悉 Docker、撰寫 Dockerfile、在 Linux 環境中部署應用</li>
+      <li>掌握 CI/CD 自動化部署流程（如 GitHub Actions、GitLab CI）</li>
+      <li>具備 API 開發經驗（RESTful, JWT, OAuth2），能制定 API 規格（Swagger / OpenAPI）</li>
+      <li>熟悉前端測試工具：Jest / React Testing Library / Cypress</li>
+      <li>具備開發模組化套件（npm library / reusable packages）經驗</li>
+      <li>熟悉 CSS 預處理與轉譯工具：SCSS、PostCSS</li>
+    </ul>
+
+    <h3>🎨 視覺與體驗敏感度</h3>
+    <ul>
+      <li>具 UI/UX 設計理解，能避免閃爍、生硬、跳動式體驗</li>
+      <li>熟悉動畫與互動工具：Framer Motion、Lottie、GSAP、Rive</li>
+      <li>理解動畫節奏與互動設計，具備微互動經驗</li>
+      <li>具備 PixiJS、Three.js 等 2D/3D 視覺化實作經驗者為佳</li>
+    </ul>
+
+    <h3>🧩 團隊協作與管理</h3>
+    <ul>
+      <li>帶領過 5 人以上前端團隊，具 Code Review 與 mentoring 經驗</li>
+      <li>熟悉敏捷開發流程，能協助拆解任務與進度追蹤</li>
+      <li>良好跨部門溝通協作能力（設計 / 後端 / PM）</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🔶 加分</h2>
+    <ul>
+      <li>熟悉 GraphQL 串接與效能優化</li>
+      <li>導入或維護 Design System（Ant Design, MUI, Tailwind 等）經驗</li>
+      <li>具備 PWA、SEO、Web 效能最佳化實務經驗</li>
+      <li>了解 Micro Frontend、Monorepo 等架構模式</li>
+      <li>具備行銷動畫頁、產品展示頁等高互動性網頁開發經驗</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🏢 期待</h2>
+    <ul>
+      <li>對使用者體驗有熱情，能在技術與產品之間找到平衡</li>
+      <li>樂於分享並帶動團隊持續成長</li>
+      <li>面對技術挑戰能主動探索、驗證並推動最佳解法</li>
+    </ul>
+  </div>
+</body>
+</html>
