@@ -24,7 +24,7 @@
 - [Acrool React Portal](https://github.com/acrool/acrool-react-portal) - React Component portal out dom (ex: Modal, Tooltips, Dropdown)
 - [Acrool React HotKey](https://github.com/acrool/acrool-react-hotkey) - React Hotkey
 - [Acrool React Component CLI](https://github.com/acrool/acrool-react-component-cli) - Quickly create React components using CLI
-
+- [Acrool Intellij React Utils](https://plugins.jetbrains.com/plugin/27268-acrool-react-utils) - Intellij React Utils (Create Styled-component, i18n locale, px to rem)
 
 ## React component
 
