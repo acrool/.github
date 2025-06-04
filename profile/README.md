@@ -75,7 +75,7 @@
 ## Help
 
 - [iTerm2 + zsh](https://github.com/imagine10255/mac-terminal-helper) - Terminal Setting
-
+- [New Macbook Install](https://medium.com/@imaginechiu/new-macbook-install-setup-69947200d8d3)
 
 
 ## License
