@@ -45,6 +45,7 @@
 
 - [Acrool Graphql Plugins: React-Query](https://github.com/acrool/acrool-graphql-codegen-react-query) - Graphql React-Query
 - [Acrool Graphql Plugins: RTK-Query](https://github.com/acrool/acrool-graphql-codegen-rtk-query) - Graphql RTK-Query
+- [Acrool RestFul Plugins: RTK-Query](https://github.com/acrool/acrool-restful-codegen-rtk-query) - Restful RTK-Query
 
 
 ## JS Utils
