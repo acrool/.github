@@ -41,7 +41,7 @@
 
 
 
-## API Utils
+## API Codegen
 
 - [Acrool Graphql Plugins: React-Query](https://github.com/acrool/acrool-graphql-codegen-react-query) - Codegen(Graphql + React-Query)
 - [Acrool Graphql Plugins: RTK-Query](https://github.com/acrool/acrool-graphql-codegen-rtk-query) - Codegen(Graphql + RTK-Query)
