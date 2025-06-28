@@ -25,6 +25,7 @@
 - [Acrool React HotKey](https://github.com/acrool/acrool-react-hotkey) - React Hotkey
 - [Acrool React Component CLI](https://github.com/acrool/acrool-react-component-cli) - Quickly create React components using CLI
 - [Acrool React Fetcher](https://github.com/acrool/acrool-react-fetcher) - Quickly create React axios + auth
+- [Acrool React Types](https://github.com/acrool/acrool-react-types) - React common types
 
 ## React component
 
